@@ -1,0 +1,13 @@
+{
+  "name": "fanqie-novel-downloader",
+  "description": "番茄小说下载器 - 输入 fanqienovel.com 链接，自动下载小说原文到项目文件夹。支持自定义字体解码，绕过付费墙。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yunmegnze"
+  },
+  "homepage": "https://github.com/yunmegnze/fanqie-novel-downloader",
+  "repository": "https://github.com/yunmegnze/fanqie-novel-downloader",
+  "license": "MIT",
+  "keywords": ["fanqie", "novel", "download", "番茄小说", "下载"],
+  "skills": "./"
+}
