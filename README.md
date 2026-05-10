@@ -46,7 +46,7 @@ git clone https://github.com/yunmegnze/fanqie-novel-downloader ~/.claude/skills/
 
 安装后直接给 Claude Code 番茄小说链接：
 
-- "下载这本番茄小说的前 20 章：https://fanqienovel.com/page/7143038691944959011（此为示例链接，网页版只可下载免费内容部分，锁定内容需SVIP账号登录后粘贴网址发送给Claude code）"
+- "下载这本番茄小说的前 20 章：https://fanqienovel.com/page/7143038691944959011 （此为示例链接，网页版只可下载免费内容部分，锁定内容需SVIP账号登录后粘贴网址发送给Claude code）"
 - "把这个番茄小说的前 50 章下到 ./novels 文件夹：[URL]"
 
 Skill 会自动触发，解析链接、检查 CDP 环境、逐章下载并解码保存。
