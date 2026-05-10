@@ -5,8 +5,8 @@
   "author": {
     "name": "yunmegnze"
   },
-  "homepage": "https://github.com/yunmegnze/fanqie-novel-downloader",
-  "repository": "https://github.com/yunmegnze/fanqie-novel-downloader",
+  "homepage": "https://github.com/yunmegnze/fanqie-novel-downloader-skill",
+  "repository": "https://github.com/yunmegnze/fanqie-novel-downloader-skill",
   "license": "MIT",
   "keywords": ["fanqie", "novel", "download", "番茄小说", "下载"],
   "skills": "./"
