@@ -1,0 +1,18 @@
+{
+  "name": "fanqie-novel-downloader",
+  "owner": {
+    "name": "yunmegnze"
+  },
+  "metadata": {
+    "description": "番茄小说下载器 - 输入链接自动下载小说原文，支持字体解码和付费墙绕过"
+  },
+  "plugins": [
+    {
+      "name": "fanqie-novel-downloader",
+      "description": "Download fanqienovel.com novels via CDP browser automation with font decoding",
+      "source": "./",
+      "category": "productivity",
+      "tags": ["novel", "download", "fanqie", "番茄小说", "ebook"]
+    }
+  ]
+}
